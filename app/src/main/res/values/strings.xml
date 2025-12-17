@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Praktikum MP 2</string>
+    <string name="buka_layout_praktikum_2" translatable="false">Buka Layout Praktikum #2</string>
+    <string-array name="experiment_options">
+        <item>Pilih Eksperimen</item>
+        <item>1. LinearLayout</item>
+        <item>2. RelativeLayout</item>
+        <item>3. FrameLayout</item>
+        <item>4. Eksperimen Views</item>
+        <item>5. ConstraintLayout dan Responsif</item>
+        <item>6. Mini Project: Welcome Screen</item>
+    </string-array>
+</resources>
